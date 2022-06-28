@@ -1,0 +1,9 @@
+1. display video on the screen [o]
+2. display multi-video on the screen [o]
+- arrange frontend view [-] // need more work in CSS component
+- discard exited user [o]
+
+3. chatting []
+
+4. loadbalance? []
+- hard to connect users upto 6 -> Why?
